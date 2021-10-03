@@ -4,7 +4,7 @@
 - How to reach me: Discord
 
 
-#automaticly made by github
+#  automaticly made by github
 
 <!---
 WiserTixx/WiserTixx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

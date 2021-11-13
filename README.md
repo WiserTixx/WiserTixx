@@ -1,6 +1,6 @@
 - Hi, I’m @WiserTixx
 - I’m interested in coding
-- I’m currently learning c# & c++
+- I’m currently learning minecraft logic
 - How to reach me: Discord
 
 

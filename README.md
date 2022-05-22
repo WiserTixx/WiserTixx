@@ -5,7 +5,7 @@
 - I’m interested in coding
 - I’m currently learning minecraft logic
 - How to reach me: Discord (WiserTixx#6777)
-- Download (WiserMod)[https://github.com/WiserTixx/WiserMod]
+- Download [WiserMod](https://github.com/WiserTixx/WiserMod)
 ```
 $$\      $$\ $$\                               $$\      $$\                 $$\ 
 $$ | $\  $$ |\__|                              $$$\    $$$ |                $$ |

@@ -17,11 +17,11 @@ $$  /   \$$ |$$ |$$$$$$$  |\$$$$$$$\ $$ |      $$ | \_/ $$ |\$$$$$$  |\$$$$$$$ |
 \__/     \__|\__|\_______/  \_______|\__|      \__|     \__| \______/  \_______| 
 ```
 
-[![Discord](https://lanyard.cnrad.dev/api/672826499245539328)](https://discord.com/users/672826499245539328)
+[![Discord](https://lanyard.cnrad.dev/api/672826499245539328)](https://discord.com/users/672826499245539328) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=WiserTixx&count_private=true)
+
 <!--- 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=WiserTixx)]()
 --->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=WiserTixx&count_private=true)
 
 <!---
 WiserTixx/WiserTixx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

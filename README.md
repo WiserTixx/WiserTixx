@@ -18,9 +18,9 @@ $$  /   \$$ |$$ |$$$$$$$  |\$$$$$$$\ $$ |      $$ | \_/ $$ |\$$$$$$  |\$$$$$$$ |
 ```
 
 [![Discord](https://lanyard.cnrad.dev/api/672826499245539328)](https://discord.com/users/672826499245539328)
- 
+<!--- 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=WiserTixx)]()
-
+--->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=WiserTixx&count_private=true)
 
 <!---

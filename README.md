@@ -2,20 +2,6 @@
 
 
 - Hi, I’m [@WiserTixx](https://github.com/WiserTixx)
-- I’m interested in coding
-- I’m currently learning minecraft logic
-- How to reach me: Discord (WiserTixx#6777)
-- Download [WiserMod](https://github.com/WiserTixx/WiserMod)
-```
-$$\      $$\ $$\                               $$\      $$\                 $$\ 
-$$ | $\  $$ |\__|                              $$$\    $$$ |                $$ |
-$$ |$$$\ $$ |$$\  $$$$$$$\  $$$$$$\   $$$$$$\  $$$$\  $$$$ | $$$$$$\   $$$$$$$ |
-$$ $$ $$\$$ |$$ |$$  _____|$$  __$$\ $$  __$$\ $$\$$\$$ $$ |$$  __$$\ $$  __$$ |
-$$$$  _$$$$ |$$ |\$$$$$$\  $$$$$$$$ |$$ |  \__|$$ \$$$  $$ |$$ /  $$ |$$ /  $$ |
-$$$  / \$$$ |$$ | \____$$\ $$   ____|$$ |      $$ |\$  /$$ |$$ |  $$ |$$ |  $$ |
-$$  /   \$$ |$$ |$$$$$$$  |\$$$$$$$\ $$ |      $$ | \_/ $$ |\$$$$$$  |\$$$$$$$ |
-\__/     \__|\__|\_______/  \_______|\__|      \__|     \__| \______/  \_______| 
-```
 
 [![Discord](https://lanyard.cnrad.dev/api/672826499245539328)](https://discord.com/users/672826499245539328) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=WiserTixx&count_private=true)
 
